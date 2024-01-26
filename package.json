@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "airtable": "^0.12.2",
     "node-schedule": "^2.1.1",
     "node-telegram-bot-api": "^0.64.0"
   }
